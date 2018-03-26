@@ -120,6 +120,8 @@ int wmain(int argc, char* args[])
 	if( !init())
 		std::cout << "Failed to initialize" << std::endl;
 
+	std::cout << "test123" << std::endl;
+
 	int xOffset = 200;
 	int yOffset = 200;
 
